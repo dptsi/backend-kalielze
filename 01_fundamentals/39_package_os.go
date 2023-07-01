@@ -19,4 +19,10 @@ func main() {
 	} else {
 		fmt.Println("err msg:", err.Error())
 	}
+
+	/*
+		masih banyak documentation mengenai package os
+
+		http://golang.org/pkg/os/
+	*/
 }
