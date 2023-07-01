@@ -7,4 +7,5 @@ import (
 
 func main() {
 	fmt.Println(go_module.SayHello())
+	fmt.Println(go_module.Materi())
 }
