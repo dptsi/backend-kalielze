@@ -2,3 +2,5 @@ github.com/kalielze/go-module v1.0.0 h1:hpV58ymp2pcZsLSoHuSpIBN+pnjgdGcTeItRK3U0
 github.com/kalielze/go-module v1.0.0/go.mod h1:b8sZhgk7N+pa8KHIGjRc9RVxus0uYuAqm379WHFxTSk=
 github.com/kalielze/go-module v1.0.1 h1:tVD2DLTGaXZHjmfPqUoZLoHmDKR+nmPhEw4ZY33nSaE=
 github.com/kalielze/go-module v1.0.1/go.mod h1:b8sZhgk7N+pa8KHIGjRc9RVxus0uYuAqm379WHFxTSk=
+github.com/kalielze/go-module/v2 v2.0.0 h1:LgQQKBeHkbBdevn+D609Bib/bSJDve6YvGd1zCMk0WQ=
+github.com/kalielze/go-module/v2 v2.0.0/go.mod h1:j5PQmt/Jg4IOPGuUsMGoo7xBAU5ugsZBkEgHAwjKY18=
