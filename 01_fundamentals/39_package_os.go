@@ -23,6 +23,6 @@ func main() {
 	/*
 		masih banyak documentation mengenai package os
 
-		http://golang.org/pkg/os/
+		https://golang.org/pkg/os/
 	*/
 }

@@ -21,7 +21,7 @@ func main() {
 	/*
 		masih banyak documentation mengenai package flag
 
-		http://golang.org/pkg/flag/
+		https://golang.org/pkg/flag/
 	*/
 }
 }

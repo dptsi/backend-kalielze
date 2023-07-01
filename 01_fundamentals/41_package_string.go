@@ -31,6 +31,6 @@ func main() {
 	/*
 		masih banyak documentation mengenai package strings
 
-		http://golang.org/pkg/strings/
+		https://golang.org/pkg/strings/
 	*/
 }

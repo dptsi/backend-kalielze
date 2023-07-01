@@ -28,7 +28,7 @@ func main() {
 	/*
 		masih banyak documentation mengenai package sort
 
-		http://golang.org/pkg/sort/
+		https://golang.org/pkg/sort/
 	*/
 }
 

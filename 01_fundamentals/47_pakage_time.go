@@ -44,6 +44,6 @@ func main() {
 	/*
 		masih banyak documentation mengenai package time
 
-		http://golang.org/pkg/time/
+		https://golang.org/pkg/time/
 	*/
 }

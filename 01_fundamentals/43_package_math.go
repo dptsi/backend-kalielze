@@ -27,6 +27,6 @@ func main() {
 	/*
 		masih banyak documentation mengenai package math
 
-		http://golang.org/pkg/math/
+		https://golang.org/pkg/math/
 	*/
 }

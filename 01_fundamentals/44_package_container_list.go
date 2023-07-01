@@ -34,6 +34,6 @@ func main() {
 	/*
 		masih banyak documentation mengenai package container list
 
-		http://golang.org/pkg/container/list/
+		https://golang.org/pkg/container/list/
 	*/
 }

@@ -52,6 +52,6 @@ func main() {
 	/*
 		masih banyak documentation mengenai package strconv
 
-		http://golang.org/pkg/strconv/
+		https://golang.org/pkg/strconv/
 	*/
 }

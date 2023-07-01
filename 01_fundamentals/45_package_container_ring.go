@@ -30,6 +30,6 @@ func main() {
 	/*
 		masih banyak documentation mengenai package container ring
 
-		http://golang.org/pkg/container/ring/
+		https://golang.org/pkg/container/ring/
 	*/
 }
